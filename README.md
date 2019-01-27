@@ -29,6 +29,7 @@
 - go語言
 - PHP語言
 - Python語言
+- Devops學習資料
 ----
 
 # List
@@ -94,3 +95,8 @@
 
 ## Python語言電子書
 - django-girls-taipei-tutorial.pdf
+
+## Devops學習資料
+- mydevopstour.pdf
+- 極限編程XP.pdf
+- Towards scrum of scrums.pdf
